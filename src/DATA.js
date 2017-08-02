@@ -1,12 +1,12 @@
 export default {
   company: [{title: "Lous Tex Mex"}],
-  address: [{
+  address: {
     street: '66212 El Paso Ave.',
     suite: 'Suite 4B',
     city: 'Austin',
     state: 'TX',
     zip: '73301'
-  }],
+  },
   priceTag: "https://cdn4.iconfinder.com/data/icons/banking-icons-3/100/1-512.png",
   phone: '1-223-782-9090',
   items: [
